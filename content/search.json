@@ -3,6 +3,14 @@
     {
       "type": "search-engine",
       "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000
     }
   ]
 }
