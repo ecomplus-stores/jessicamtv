@@ -10,8 +10,13 @@
   },
   "links_2": {
     "list_categories": true,
-    "title": "Moda Feminina",
-    "list": []
+    "title": "Categorias",
+    "list": [
+      {
+        "url": "",
+        "text": "Moda Feminina"
+      }
+    ]
   },
   "contacts": {
     "title": "Contatos",
