@@ -8,11 +8,11 @@
     "text": "Parcelamos em 3x sem juros"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "Prazo para trocas de 7 dias."
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Descontos em peças selecionadas."
   }
 }
