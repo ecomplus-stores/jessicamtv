@@ -6,12 +6,7 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Dúvidas? Chame a gente no whatsapp ou no Direct!"
       }
     ],
     "phone_wpp": true,
@@ -19,7 +14,7 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 6,
+    "random": 1,
     "full_width": false
   },
   "search_input": true
