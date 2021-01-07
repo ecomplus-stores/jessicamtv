@@ -1,23 +1,23 @@
 {
-  "store_id": 1211,
-  "name": "jessicamtv",
   "domain": "jessicamtv.netlify.app",
-  "short_name": "jessicamtv",
-  "description": "jessicamtv",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#eb0a98",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/116566833_933791370433383_1880032929346098826_n.jpg",
+  "name": "jessicasantostore",
+  "short_name": "jessicasantostore",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/116566833_933791370433383_1880032929346098826_n.jpg",
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/116566833_933791370433383_1880032929346098826_n.jpg",
+  "store_id": 1211,
+  "description": "jessicasantostore",
+  "large_icon": "/img/uploads/116566833_933791370433383_1880032929346098826_n.jpg"
 }
