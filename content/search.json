@@ -5,12 +5,9 @@
       "enabled": true
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000
+      "type": "page-title",
+      "title": "Moda Feminina",
+      "description": "Moda Feminina"
     }
   ]
 }
