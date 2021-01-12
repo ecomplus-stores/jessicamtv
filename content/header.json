@@ -2,7 +2,8 @@
   "marketing_stripe": {
     "text": "😍 COMPRE ON-LINE E RECEBA NO CONFORTO DA SUA CASA! 😍 😍",
     "link": "/promotion",
-    "background": "#e10e89"
+    "background": "#df77b4",
+    "color": "#df539e"
   },
   "contacts_stripe": {
     "pages": [
