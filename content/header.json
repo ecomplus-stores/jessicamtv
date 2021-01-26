@@ -15,7 +15,9 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/novidadesdasemana?Novidades da Semana"
+    ],
     "random": 1,
     "full_width": true
   },
